@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.test.angular.suite.Yopmail_Signup">
+        <methods>
+          <include name="UserRegistration"/>
+        </methods>
+      </class> <!-- com.test.angular.suite.Yopmail_Signup -->
+      <class name="com.test.angular.suite.Vendor_SignUp_Test">
+        <methods>
+          <include name="CloseTest"/>
+          <include name="launchApplication"/>
+          <include name="SignUp_Neighbor"/>
+        </methods>
+      </class> <!-- com.test.angular.suite.Vendor_SignUp_Test -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<test name="CompanyUsersSignup">
+    <classes>
+     <class name="com.test.angular.suite.Company_Owner_Signup_Test"/>
+     <class name="com.test.angular.suite.Company_Admin_Signup_Test"/>
+     <class name="com.test.angular.suite.Company_Schedular_Signup_Test"/>
+     <class  name="com.test.angular.suite.Company_Cleaner_Signup_Test"/>
+    </classes>
+ </test> <!-- Test -->
+  
+  
+</suite> <!-- Suite -->

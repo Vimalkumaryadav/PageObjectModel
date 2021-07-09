@@ -1,0 +1,2 @@
+set classpath=D:\NewEclipseWorkSpace\latest\Lapa_Lopa_POM_Framework\bin\;D:\NewEclipseWorkSpace\latest\Lapa_Lopa_POM_Framework\lib\*
+java org.testng.TestNG D:\NewEclipseWorkSpace\latest\Lapa_Lopa_POM_Framework\Angular.testng.xml

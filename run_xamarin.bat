@@ -1,0 +1,2 @@
+set classpath=D:\NewEclipseWorkSpace\Lapa_Lopa_POM_Framework\bin\;D:\NewEclipseWorkSpace\Lapa_Lopa_POM_Framework\lib\*
+java org.testng.TestNG D:\NewEclipseWorkSpace\Lapa_Lopa_POM_Framework\Xamarin.testng.xml
